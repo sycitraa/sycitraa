@@ -1,136 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Hi,%20I'm%20Citra%20👋&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Project%20Manager%20•%20Web%20Developer%20•%20Informatics%20Engineering%20Student&descAlignY=60"/>
+# 👋 Hi, I'm Citra Tri Setyaningrum
 
-<br>
+### Project Manager • Web Developer • Informatics Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Digital+Solutions...;Leading+Projects...;Learning+New+Technologies...;Always+Growing+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Digital+Solutions;Leading+Software+Projects;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 💜 About Me
+## 💜 About Me
 
-```txt
-> Name      : Citra Tri Setyaningrum
-> Role      : Project Manager | Web Developer
-> Education : Diploma in Informatics Engineering
-> Location  : Surakarta, Indonesia
+```bash
+> whoami
+
+Name        : Citra Tri Setyaningrum
+Education   : Diploma in Informatics Engineering
+University  : Universitas Sebelas Maret
+Role        : Project Manager | Web Developer
+Location    : Surakarta, Indonesia
+
+Currently Learning:
+- Full Stack Development
+- Cloud Computing
+- Software Architecture
+- Artificial Intelligence
 ```
 
-I am passionate about building modern web applications, leading collaborative software projects, and continuously learning new technologies. I enjoy transforming ideas into practical digital solutions while combining technical expertise with effective communication and teamwork.
+I enjoy transforming ideas into digital products through clean code, teamwork, and continuous learning. My interests include web development, project management, UI/UX, and building impactful software solutions.
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,php,html,css"/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=vue,react,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=vue,react,tailwind,vite" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 📦 RFID Warehouse Management System
 
 > Project Manager
 
-- Agile Scrum
 - Vue.js
 - Express.js
 - PostgreSQL
 - REST API
 - RFID Tracking
+- Agile Scrum
 
 ---
 
-### 🌸 TemanFlo
+### 🌸 TemanFlo E-Commerce
 
 > Project Manager & Backend Developer
 
 - Laravel
 - Vue.js
 - MySQL
-- REST API
+- Midtrans Integration
+
 
 ---
 
-# 📊 GitHub Analytics
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/sycitraa">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/citra-tri-setyaningrum-239686340">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:">sycitra84
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -139,8 +113,8 @@ I am passionate about building modern web applications, leading collaborative so
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=A855F7)
+> **"Code with Purpose. Lead with Impact."** 💜
 
-### 💜 *"Code. Lead. Create. Repeat."*
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=9333EA)
 
 </div>
