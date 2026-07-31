@@ -99,7 +99,7 @@ I enjoy transforming ideas into digital products through clean code, teamwork, a
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:">sycitra84
+<a href="mailto:"sycitra84@gmail.com>
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
