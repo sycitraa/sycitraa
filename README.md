@@ -99,15 +99,15 @@ I enjoy transforming ideas into digital products through clean code, teamwork, a
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:"sycitra84@gmail.com>
+<a href="mailto:sycitra84@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<!-- <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+</div> -->
 
 ---
 
